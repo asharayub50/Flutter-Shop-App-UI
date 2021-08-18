@@ -1,3 +1,4 @@
+//Details body
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:shop_app_ui/constants.dart';
